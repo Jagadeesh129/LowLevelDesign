@@ -8,3 +8,14 @@ For every problem these are the following steps
 7. Handle Edge cases
 8. Class Diagram and Package Structure
 9. Discuss Future add-On's
+
+├── Models/
+├── Services/
+├── Enums/
+├── Program.cs
+
+in C# for method names we follow PascalCase 
+eg: VehicleName(), GetReady()
+
+Classes, Methods, Properties → PascalCase (Start with Capital)
+Local variables, parameters → camelCase (start with lowercase)
